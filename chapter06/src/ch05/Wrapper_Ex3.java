@@ -14,7 +14,9 @@ public class Wrapper_Ex3 {
 		short s = Short.parseShort(str);
 		long l = Long.parseLong(str);
 		
-		//
+		
+		
+		// 
 		float f = Float.parseFloat(str2);
 		double d = Double.parseDouble(str2);
 		
@@ -48,6 +50,10 @@ public class Wrapper_Ex3 {
 //		System.out.println("문자열 byte값 변환 :" + b);
 //		System.out.println("문자열 int값 변환 : " + i);
 //		System.out.println(b);
+		
+		
+		// 한글깨짐 확인 코드 !!!!!!
+		
 		
 	}
 
