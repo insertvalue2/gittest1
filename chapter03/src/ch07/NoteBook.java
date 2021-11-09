@@ -1,0 +1,11 @@
+package ch07;
+
+public abstract class NoteBook extends Computer {
+
+	@Override
+	public void typing() {
+		System.out.println("노크북 키보드로 타이핑 합니다.");
+	}
+
+	
+}
