@@ -26,6 +26,9 @@ public class Wrapper_Ex3 {
 //			System.out.println("boolean 형으로 변경 완료!!!");
 //		}
 //		
+		
+		
+		
 		// 문제 1 
 		
 //		String str10 = "1001";
